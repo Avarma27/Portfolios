@@ -29,7 +29,7 @@
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
 -	Transformed categorical variables into dummy variables using one-hot encoding.
 -	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src="Portfolios/Images/Supplychain.png?raw=true"/>
+<img src="/Images/Supplychain.png?raw=true"/>
 
 
 
