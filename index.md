@@ -20,6 +20,7 @@
 - The most profitable customer segments are from the Pacific region, generating a total of $6.2 million in revenue, followed by the South Atlantic and Mountain regions.
 - A key finding from the analysis is that the company's marketing campaign focusing on discounting products has not been effective, as the revenue generated from discounted products only accounts for 7% of the total revenue. It may be more effective to focus on other marketing strategies to increase sales.
 <img src="Images/Airbnb_1.png?raw=true"/>
+<br>
 <img src="Images/Airbnb_2.png?raw=true"/>
 
 
