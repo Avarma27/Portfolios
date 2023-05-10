@@ -24,7 +24,7 @@
 <img src="images/Retail Analytic1.png?raw=true"/>
 
 ---
-[Supply Chain (PowerBI)]
+Supply Chain (PowerBI)
 -	Calculated credit-to-income ratio, average income, numbers of bad debt and refused accounts, etc. for 300,000 records using SQL.
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
 -	Transformed categorical variables into dummy variables using one-hot encoding.
