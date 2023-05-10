@@ -10,7 +10,7 @@
 - Determined the best digital marketing tactics to reach target audience, drive them through conversion funnel AIDA (awareness, interest, desire, action), and maximize traffic and conversions
 - Collaborated with marketers to create data-driven campaigns, measure, analyze and optimize campaign performance, gain proficiency in core digital marketing tactics including direct, display, organic search, paid search, referral, social
 - Applied Pareto principle (80/20 rule), focus on actionable head data, focus on SEO to get more free traffic, combine web data with customer and product data to find more insights, help organizations increase revenue, reduce costs, improve customer satisfaction and loyalty
-<img src="images/Dashboard 1.png?raw=true"/>
+<img src="Portfolios/Images/Dashboard 1.png?raw=true"/>
 
 
 ---
@@ -29,7 +29,7 @@
 -	Prepared data by removing empty records and imputing missing values, and identified features correlated to defaulted accounts.
 -	Transformed categorical variables into dummy variables using one-hot encoding.
 -	Implemented and compared Logistic Regression and Random Forest models, the performance of the later method was improved by 17%.
-<img src="images/Random Forest AOC.png?raw=true"/>
+<img src="Portfolios/Images/Supplychain.png?raw=true"/>
 
 
 
